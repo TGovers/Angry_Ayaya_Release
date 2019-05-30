@@ -48,7 +48,7 @@ Angry Ayaya is a simple and intuitive VST plugin with an anime aesthetic. It uti
 * Bass Guitars
 * And anything else you want to put through it, it's completely up to you!
 
-Angry Ayaya has full automation and save state capabilities for easy use within your favourite DAW! Currently Angry Ayaya only has a mac DMG installer, but can be used on Windows via the instructions listed here.
+Angry Ayaya has full automation and save state capabilities for easy use within your favourite DAW! Currently Angry Ayaya only has a Mac DMG installer, but can be used in Windows via the instructions detailed in the Installation Guide section.
 
 Angry Ayaya was inspired by the internet meme “Ayaya”, click the link to the Youtube video below to **_witness the majesty that is Ayaya_** 
 
@@ -107,11 +107,11 @@ Here is a setup that we recommend to get you started with the plugin. It creates
 
 Currently Angry Ayaya is not open to contribution, but this could change in the future!
 
-Taylor Govers: Processor Editor, Repository/README/License Management, GUI Assistant
+Taylor Govers: Processor Editor, Repository/README/License Management, Assistant GUI Editor
 
-Ethan Punter: GUI Editor, Repository Management
+Ethan Punter: GUI Editor, Repository Management, Photoshop Editor
 
-For this project, we had inspiration and were helped with code by these fellow youtubers. They make awesome work so please check them out and support them!
+For this project, we had inspiration and were helped with code by these youtubers. They make awesome work so please check them out and support them!
 
 [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A "https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A")
 
