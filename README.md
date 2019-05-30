@@ -65,6 +65,14 @@ Thank you!
 
 For Mac users, we recommend cloning/downloading the repository to your computer and installing the plugin through the easy-to-use DMG installer
 
+**Step 1: Open This!**
+
+![alt text](https://i.imgur.com/AMAPNsq.png "https://i.imgur.com/AMAPNsq.png")
+
+**Step 2: Open the .pkg found inside for quick and easy installation!**
+
+![alt text](https://i.imgur.com/pk037KJ.png "https://i.imgur.com/pk037KJ.png")
+
 For Windows users, you will need to setup and run the plugin on your computer. For this you will need
 * [Projucer](https://juce.com/ "https://juce.com/")
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/ "https://visualstudio.microsoft.com/")
