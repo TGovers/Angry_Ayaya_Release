@@ -61,8 +61,11 @@ We wanted to release Angry Ayaya for free, but if you wish to donate it would be
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YP29EFC3QEU4L)
 
+Additionally, if you want to get in contact with us our email is angryayaya@gmail.com
 
-We really hope that you enjoy our plugin and make some awesome tunes with it!
+We'd love to hear from you about our plug-in, whether it be recommendations, issues or just a nice message to us!
+
+From the team behind **_Angry Ayaya_**, we really hope that you enjoy our plugin and make some awesome tunes with it!
 Thank you!
 
 -- Team Angry Ayaya --
