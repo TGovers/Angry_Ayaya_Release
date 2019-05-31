@@ -108,6 +108,8 @@ The Distortion feature has four parameters that you can change; the Drive, Range
 
 If you want to essentially “turn off” the distortion, just turn the distortion Drive, Range and Blend knobs to their lowest values.
 
+Additionally, if you set the Volume knob to past 1.0, you will clip your audio. 99% of the time you really will not want this (hence the warning!), but we left it in for the niche cases when you might. 
+
 Here is a setup that we recommend to get you started with the plugin. It creates a really subtle distortion with just the low frequencies coming through, creating a nice rumble or pulse depending on what you are putting through it.
 
 ![alt text](https://i.imgur.com/xx1Yx0v.png "Angry Ayaya Example Setup")
